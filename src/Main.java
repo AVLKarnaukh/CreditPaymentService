@@ -10,7 +10,5 @@ public class Main {
         System.out.println("Ежемесячный платеж: " + service.calculate(1000_000, 9.99, 36));
 
 
-
-
     }
 }
